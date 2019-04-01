@@ -62,7 +62,7 @@
     <div class="row">
       <div class="col-lg-8 col-md-8">
         <div class="go-heading go-lined">
-          <h3 class="title-section1"><span style="color:#942711;">About</span> Rockford International School</h3>
+          <h3 class="title-section1"><span style="color:#00264b;">About</span> Rockford International School</h3>
         </div>
           <div class="directorWrapper">
            <div class="row go-directors">

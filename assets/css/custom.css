@@ -144,7 +144,7 @@
         /*display: none;*/
 }
 .leftSide_bar {
-    background-color: #942711!important;
+    background-color: #00264b!important;
     padding-right: 0 !important;
     /*background: #663399;*/
 }
@@ -275,7 +275,7 @@ body .container.body .right_col {
     background: #F7F7F7
 }
 body.main-dashboard{
-    background: #942711;
+    background: #00264b;
 }
 .nav-md .container.body .right_col {
     padding: 10px 10px 0;
@@ -438,7 +438,7 @@ body {
 }
 body.login{
   
-    background: rgb(148, 39, 17);
+    background: rgb(0, 38, 75);
     
 }
 .main_container .top_nav {
@@ -594,7 +594,7 @@ h3,
     margin-bottom: 8px
 }
 a {
-    color: #942711;
+    color: #00264b;
     text-decoration: none;
 }
 a,
@@ -746,7 +746,7 @@ a:focus {
 }
 .nav.side-menu>li.active>a {
     text-shadow: rgba(0, 0, 0, 0.25) 0 -1px 0;
-    background: #942711;
+    background: #00264b;
     box-shadow: rgba(0, 0, 0, 0.25) 0 1px 0, inset rgba(255, 255, 255, 0.16) 0 1px 0
 }
 .navbar-brand,
@@ -3143,7 +3143,7 @@ input[type=file] {
 }
 .school-name{
     font-size: 26px;
-    color: #942711;
+    color: #00264b;
     /*text-align: center;*/
 }
 
@@ -3325,17 +3325,17 @@ table.fa {
     background: #dd4f32 !important;
 }
 .nav_title {
-    background: #942711!important;
+    background: #00264b!important;
 }
 .navbar_brand{
     border-bottom: 1px solid #fff !important; 
 }
 .left_col {
     /* padding-left: 10px; */
-    background: #942711!important;
+    background: #00264b!important;
 }
 .nav.side-menu>li.active>a{
-   background: #942711!important; 
+   background: #00264b!important; 
 }
 .nav-md ul.nav.child_menu li.current-page {
     background: #b45441 !important;
@@ -3402,14 +3402,14 @@ footer{
     border-color: #b85743 !important;
 }
 .btn-success:hover {
-    background-color: #942711 !important;
-    border-color: #942711 !important;
+    background-color: #00264b !important;
+    border-color: #00264b !important;
 }
 #menu_toggle i, .nav-tabs i {
-    color: #942711 !important;
+    color: #00264b !important;
 }
 .navbar-right .fa {
-    color: #942711 !important;
+    color: #00264b !important;
 }
 .footer_text {
     font-family: 'Prosto One', cursive;
@@ -3421,10 +3421,10 @@ footer{
     width: 30%; 
 }
 .head-title, .head-title small {
-    color: #942711 !important;
+    color: #00264b !important;
 }
 .head-title i.fa {
-    color: #942711 !important;
+    color: #00264b !important;
 }
 .fa {
     color: #fff !important;

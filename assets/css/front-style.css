@@ -332,7 +332,7 @@ label {
     right: 35px;
     border:1px solid transparent;
     padding: 5px 5px 2px;
-    background-color: #942711;
+    background-color: #00264b;
     font-family: fontAwesome;
     position: absolute;
 }
@@ -342,15 +342,15 @@ label {
     color: #fff;
     border:1px solid transparent;
     padding: 5px 5px 2px;
-    background-color: #942711;
+    background-color: #00264b;
     font-family: fontAwesome;
     position: absolute;
 }
 .about-school .owl-carousel .owl-prev:hover:before {
     content: "\f053";
     font-size: 15px;
-    color: #942711;
-    border:1px solid #942711;
+    color: #00264b;
+    border:1px solid #00264b;
     right: 35px;
     padding: 5px 5px 2px;
     background-color: #fff;
@@ -360,8 +360,8 @@ label {
 .about-school .owl-carousel .owl-next:hover:before {
     content: "\f054";
     font-size: 15px;
-    color: #942711;
-    border:1px solid #942711;
+    color: #00264b;
+    border:1px solid #00264b;
     padding: 5px 5px 2px;
     background-color: #fff;
     font-family: fontAwesome;
@@ -374,7 +374,7 @@ label {
 .owl-carousel .owl-prev:before{
     content:"\f053";
     font-size: 50px;
-    color: #942711;
+    color: #00264b;
     font-family: fontAwesome;
     position: absolute;
 }
@@ -382,7 +382,7 @@ label {
 .owl-carousel .owl-next:before{
    content: "\f054";
     font-size: 50px;
-    color: #942711;
+    color: #00264b;
     right: 8px;
     /* left: auto; */
     font-family: fontAwesome;
@@ -403,7 +403,7 @@ label {
     height: 10px;
     border-radius: 50%;
     width: 10px;
-    background-color: #942711;
+    background-color: #00264b;
 }
 .owl-carousel .owl-dot span {
     display: block;
@@ -465,13 +465,13 @@ label {
     color: #013e6d;
 }
 .facility-school .title-section1{
-    background-color: #942711;
+    background-color: #00264b;
     font-size: 22px;
     padding: 6px 0;
     color: #fff;
 }
 .notice-board .title-section1{
-    background-color: #942711;
+    background-color: #00264b;
     font-size: 22px;
     padding: 6px 0;
     color: #fff;
@@ -479,7 +479,7 @@ label {
 .notice-marquee {
     height: 100%;
     padding: 20px;
-    border: 1px solid #942711;
+    border: 1px solid #00264b;
 }
 .notice-single {
     border-right: 1px solid #e8e8e8;
@@ -498,7 +498,7 @@ label {
     line-height: 1.5;
     text-transform: capitalize;
     margin-bottom: 8px;
-    color: #942711;
+    color: #00264b;
     font-weight: 600;
 }
 .notice-single .notice-title h3{
@@ -819,14 +819,14 @@ button.btn.btn-primary.btn-blue {
 
 .gallery-section {
     padding: 40px 0 57px;
-    border-top:2px solid #942711;
-    border-bottom:2px solid #942711;
+    border-top:2px solid #00264b;
+    border-bottom:2px solid #00264b;
 }
 .gallerydiv .gallery-item a {
     /*position: absolute;
     width: 50px;
     height: 50px;
-    background: #942711;
+    background: #00264b;
     color: #fff;
     left: 50%;
     top: 60%;
@@ -873,7 +873,7 @@ button.btn.btn-primary.btn-blue {
 
 .event-area{
     padding-top: 40px;
-    /*border-top:1px solid #942711; */
+    /*border-top:1px solid #00264b; */
     /*background: #ebf0f4;*/
     padding-bottom: 70px;
 }
@@ -897,7 +897,7 @@ button.btn.btn-primary.btn-blue {
 }
 .event-title {
     font-weight: 600;
-    color: #942711;
+    color: #00264b;
     font-size: 21px;
     text-align: center;
     padding-bottom: 10px;
@@ -1002,7 +1002,7 @@ button.btn.btn-primary.btn-blue {
 }
 
 .profile-details h4{
-    background: #942711;
+    background: #00264b;
     padding: 5px;
     font-size: 20px;
     margin: 0 20px;
@@ -1263,7 +1263,7 @@ button.btn.btn-primary.btn-blue {
         display: none;
     }
     .mainmenu.responsive{
-        border-top: 1px solid #942711;
+        border-top: 1px solid #00264b;
     }
     .main-menu ul li ul.submenu li a{
         padding: 10px 15px;
